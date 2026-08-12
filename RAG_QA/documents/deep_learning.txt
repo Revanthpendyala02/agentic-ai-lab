@@ -1,0 +1,12 @@
+Deep Learning is a subset of Machine Learning.
+
+Deep Learning uses artificial neural networks with multiple layers to learn complex patterns from large amounts of data.
+
+Common deep learning architectures include:
+
+1. CNN - Convolutional Neural Network
+2. RNN - Recurrent Neural Network
+3. LSTM - Long Short-Term Memory
+4. Transformer
+
+Deep Learning is widely used in image recognition, speech recognition, natural language processing, autonomous vehicles, and generative AI.

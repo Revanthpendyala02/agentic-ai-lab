@@ -1,0 +1,7 @@
+Business Rules:
+
+Customer spending means the SUM of orders.amount for each customer.
+
+Total revenue means the SUM of orders.amount.
+
+When calculating customer spending, join customers and orders using customer_id.

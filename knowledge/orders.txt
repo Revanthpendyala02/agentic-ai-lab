@@ -1,0 +1,13 @@
+Table: orders
+
+Description:
+Stores customer order information.
+
+Columns:
+order_id: Unique ID of an order.
+customer_id: ID of the customer who placed the order.
+order_date: Date when the order was placed.
+amount: Total amount of the order.
+
+Relationship:
+orders.customer_id is connected to customers.customer_id.

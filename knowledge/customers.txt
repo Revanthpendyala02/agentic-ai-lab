@@ -1,0 +1,9 @@
+Table: customers
+
+Description:
+Stores information about customers.
+
+Columns:
+customer_id: Unique ID of the customer.
+customer_name: Name of the customer.
+city: City where the customer lives.
